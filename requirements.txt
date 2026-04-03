@@ -7,3 +7,5 @@ noisereduce
 soundfile
 scipy
 chromadb
+ffmpeg-python
+imageio-ffmpeg
