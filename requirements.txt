@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+groq
+python-dotenv
+pydantic
+noisereduce
+soundfile
+scipy
+chromadb

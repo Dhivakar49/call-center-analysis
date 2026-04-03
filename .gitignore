@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+vector_store/
+pretrained_models/
+chunks/
+audio.mp3
+audio1.wav
+audio2.wav
+output.wav
+*.wav
+*.mpeg
